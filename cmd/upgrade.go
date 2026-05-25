@@ -13,8 +13,8 @@ import (
 	"time"
 
 	"github.com/spf13/cobra"
-	"github.com/x-dvr/gm/ui/pbar"
-	"github.com/x-dvr/gm/upgrade"
+	"github.com/0xde86/gm/ui/pbar"
+	"github.com/0xde86/gm/upgrade"
 )
 
 // upgradeCmd represents the upgrade command

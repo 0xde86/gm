@@ -9,9 +9,9 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"github.com/x-dvr/gm/sys"
-	"github.com/x-dvr/gm/toolchain"
-	"github.com/x-dvr/gm/ui/pbar"
+	"github.com/0xde86/gm/sys"
+	"github.com/0xde86/gm/toolchain"
+	"github.com/0xde86/gm/ui/pbar"
 )
 
 // installCmd represents the install command

@@ -12,7 +12,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/x-dvr/gm/progress"
+	"github.com/0xde86/gm/progress"
 )
 
 func extractZip(src, dest string, tracker progress.IOTracker) error {

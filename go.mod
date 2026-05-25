@@ -1,4 +1,4 @@
-module github.com/x-dvr/gm
+module github.com/0xde86/gm
 
 go 1.26
 

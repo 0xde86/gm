@@ -11,7 +11,7 @@ import (
 	"github.com/charmbracelet/lipgloss"
 	"github.com/spf13/cobra"
 
-	"github.com/x-dvr/gm/ui"
+	"github.com/0xde86/gm/ui"
 )
 
 const versionLatest = "latest"

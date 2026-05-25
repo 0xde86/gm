@@ -8,7 +8,7 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 
-	"github.com/x-dvr/gm/progress"
+	"github.com/0xde86/gm/progress"
 )
 
 type tui struct {

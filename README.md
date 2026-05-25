@@ -33,13 +33,13 @@ Legend:
 ### Linux / macOS
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/x-dvr/gm/master/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/0xde86/gm/master/install.sh | bash
 ```
 
 ### Windows
 
 ```powershell
-irm https://raw.githubusercontent.com/x-dvr/gm/master/install.ps1 | iex
+irm https://raw.githubusercontent.com/0xde86/gm/master/install.ps1 | iex
 ```
 
 ## Usage

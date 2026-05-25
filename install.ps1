@@ -1,11 +1,11 @@
 # GM (Go version manager) installation script for Windows
-# Usage: irm https://raw.githubusercontent.com/x-dvr/gm/master/install.ps1 | iex
+# Usage: irm https://raw.githubusercontent.com/0xde86/gm/master/install.ps1 | iex
 
 $ErrorActionPreference = "Stop"
 
 # Configuration
 $PROGRAM_NAME = "gm"
-$REPO = "x-dvr/$PROGRAM_NAME"
+$REPO = "0xde86/$PROGRAM_NAME"
 $INSTALL_DIR = Join-Path $env:USERPROFILE ".gm\bin"
 $BINARY_NAME = "$PROGRAM_NAME.exe"
 $EXT = "zip"

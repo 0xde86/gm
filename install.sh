@@ -2,7 +2,7 @@
 set -e
 
 # Configuration
-REPO="x-dvr/gm"
+REPO="0xde86/gm"
 INSTALL_DIR="${HOME}/.gm/bin"
 BINARY_NAME="gm"
 EXT="tar.gz"

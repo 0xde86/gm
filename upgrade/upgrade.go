@@ -18,7 +18,7 @@ import (
 	"strings"
 
 	"github.com/google/go-github/v80/github"
-	"github.com/x-dvr/gm/progress"
+	"github.com/0xde86/gm/progress"
 	"golang.org/x/mod/semver"
 )
 

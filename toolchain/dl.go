@@ -19,7 +19,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/x-dvr/gm/progress"
+	"github.com/0xde86/gm/progress"
 )
 
 const goDownloadBaseURL = "https://dl.google.com/go"

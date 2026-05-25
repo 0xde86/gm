@@ -10,7 +10,7 @@ import (
 	"github.com/charmbracelet/lipgloss"
 	"github.com/spf13/cobra"
 
-	"github.com/x-dvr/gm/sys"
+	"github.com/0xde86/gm/sys"
 )
 
 // listCmd represents the list command
