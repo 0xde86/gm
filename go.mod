@@ -1,6 +1,6 @@
 module github.com/0xde86/gm
 
-go 1.26
+go 1.26.0
 
 require (
 	github.com/catppuccin/go v0.3.0
@@ -10,7 +10,7 @@ require (
 	github.com/google/go-github/v80 v80.0.0
 	github.com/spf13/cobra v1.10.2
 	golang.org/x/mod v0.40.0
-	golang.org/x/sys v0.47.0
+	golang.org/x/sys v0.48.0
 )
 
 require (
